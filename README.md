@@ -130,7 +130,7 @@ We welcome contributions to enhance the functionality and features of Intersocia
 We appreciate your contributions and will review your pull request as soon as possible.
 
 ## License
-Intersocial is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms and conditions of the license. Please see the `LICENSE` file for more details.
+Intersocial is released under the [MIT License](https://github.com/KOSASIH/Intersocial/blob/main/LICENSE). You are free to use, modify, and distribute this software in accordance with the terms and conditions of the license. Please see the `LICENSE` file for more details.
 
 ---
 
